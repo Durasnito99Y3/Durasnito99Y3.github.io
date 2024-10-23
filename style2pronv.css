@@ -6,6 +6,9 @@ body {
     margin: 0;
     background-color: #000000;
 }
+.texto{
+    color: aqua;
+}
 
 .container {
     text-align: center;
